@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-int main(int argc, char **argv)
+int ejecutarLista()
 {
-	printf("give me a bottle of rum!\n");
-	return 0;
+ /*esto es un comentario */
 }
